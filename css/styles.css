@@ -26,8 +26,10 @@ img{
   float: none;
 }
 .page{
-  margin: 15px;
+  margin: 20px;
+  margin-top: 256px;
   padding: 3px;
-  border: 6px;
-
+  border: 8px;
+  border-top: 28px;
+  background-color: brown;
 }
