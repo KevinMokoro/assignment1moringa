@@ -9,6 +9,16 @@ h2{
 body{
   background-color: olive;
 }
-.list {
-  color: blue;
+.mylist {
+    color: white;
+    background-image: url("../images/movie.jpg");
+}
+.main{
+  color: white;
+  font-style: italic;
+  background-color: black;
+}
+.release{
+  color: brown;
+  font-size: 11px
 }
