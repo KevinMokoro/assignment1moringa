@@ -22,3 +22,12 @@ body{
   color: brown;
   font-size: 11px
 }
+img{
+  float: none;
+}
+.page{
+  margin: 15px;
+  padding: 3px;
+  border: 6px;
+
+}
