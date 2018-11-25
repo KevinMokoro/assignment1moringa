@@ -40,3 +40,12 @@ img{
   background-image: url("../images/entertainment.jpg");
   margin-bottom: 10px;
   padding: 111px;
+}
+#column{
+  float: right;
+  font-weight: bold;
+  background-color: black;
+  margin-top: 46px;
+  margin-right: 21px;
+  color: white;
+}
