@@ -33,3 +33,10 @@ img{
   border-top: 28px;
   background-color: brown;
 }
+.header{
+  font-size: 72px;
+  font-style: italic;
+  font-family: monospace;
+  background-image: url("../images/entertainment.jpg");
+  margin-bottom: 10px;
+  padding: 111px;
