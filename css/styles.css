@@ -7,7 +7,7 @@ h2{
   color: red;
 }
 body{
-  background-color: olive;
+  background-image: url("/home/kevin/Documents/Kevin-website/images/top.jpg");
 }
 .mylist {
     color: white;
@@ -47,6 +47,8 @@ img{
   background-color: black;
   margin-top: 90px;
   color: white;
+  text-align: center;
+  padding: 56px;
 }
 .author{
   background-color: silver;
