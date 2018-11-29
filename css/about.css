@@ -1,0 +1,23 @@
+h1{
+  color: gray;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  border: 65;
+  font-size: 72px;
+}
+.page{
+  background-color: silver;
+  font-size: 17px;
+  font-weight: bold;
+  color: black;
+}
+body{
+  background-image: url("../images/top.jpg");
+}
+h2{
+  color: brown;
+}
+h3{
+  color: olive;
+}
